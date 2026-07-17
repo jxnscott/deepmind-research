@@ -68,8 +68,8 @@ datasets for train, valid and test splits.
 Dataset names match the naming in the paper.
 The following datasets are available:
 
-    airfoil
-    cylinder_flow
+    x airfoil
+    x cylinder_flow
     deforming_plate
     flag_minimal
     flag_simple
